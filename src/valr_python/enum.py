@@ -133,3 +133,4 @@ class CurrencyPair(NameStrEnum):
     SOLZAR = auto()
     BNBZAR = auto()
     SHIBZAR = auto()
+    AVAXZAR = auto()
