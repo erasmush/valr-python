@@ -134,3 +134,4 @@ class CurrencyPair(NameStrEnum):
     BNBZAR = auto()
     SHIBZAR = auto()
     AVAXZAR = auto()
+    USDCZAR = auto()
